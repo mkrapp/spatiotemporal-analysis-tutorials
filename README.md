@@ -5,7 +5,7 @@
 
 Clone repository and go into directory:
 ```
-git clone https://github/mkrapp/spatiotemporal-analysis-tutorials.git
+git clone https://github.com/mkrapp/spatiotemporal-analysis-tutorials.git
 cd spatiotemporal-analysis-tutorials
 ```
 
